@@ -1,4 +1,5 @@
 .content {
+<<<<<<< HEAD
 	margin-top: 30px;
 	padding: 20px;
 	background-color: white;
@@ -10,3 +11,18 @@
 	margin-left: auto;
 	margin-right: auto;
 }
+=======
+    margin-top: 30px;
+    padding: 20px;
+    background-color: white;
+}
+
+.side-image {
+    width: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+>>>>>>> 0185803b3109c0c839bfdeecb21dcc88507afbd1
